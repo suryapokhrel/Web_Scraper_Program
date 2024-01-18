@@ -1,0 +1,6 @@
+Change the exectution policy temprorary:
+command:- Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+Reset the execution policy to orginal value:
+command:- Set-ExecutionPolicy -Scope Process -ExecutionPolicy Undefined
+
